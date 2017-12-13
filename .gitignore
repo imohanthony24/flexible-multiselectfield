@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+*.py~
+.idea
+build
+dist
+*.egg-info
+.coverage*
+.env
+example/example.db
